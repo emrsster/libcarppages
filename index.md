@@ -2,6 +2,6 @@
 
 *Practice page for workshop*
 
-|Column 1 | :Column 2 | Column 3:|
+|Column 1 | Column 2 | Column 3|
 |-------   ------      ------|
-|Apple     Orange      Grape|
+|Apple  |   Orange  |    Grape|
